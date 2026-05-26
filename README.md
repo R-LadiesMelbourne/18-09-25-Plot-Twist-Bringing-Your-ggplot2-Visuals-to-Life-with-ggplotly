@@ -6,7 +6,7 @@ Through practical case studies, you’ll explore a variety of visualisations, le
 
 Whether you prefer to follow along in R with the required packages installed or explore the concepts via Google Colab and copy the code once you get home, you’ll gain actionable tips to elevate your R visualisations—no matter your platform. By the end, you’ll be ready to make your data clickable, hoverable, and truly dynamic.
 
-See our [MeetUp](https://www.meetup.com/rladies-melbourne/events/310808326/?eventOrigin=group_events_list). 
+View the workshop on [YouTube](https://www.youtube.com/watch?v=QXvOezQe3OY&t=1s) and see our [MeetUp](https://www.meetup.com/rladies-melbourne/events/310808326/?eventOrigin=group_events_list). 
 
 The website with the course content can be found [here](https://kirstymccann.github.io/ggplotly_workshop_website/). 
 The presentation can be found [here](https://github.com/KirstyMcCann/2025-Sep-18_Rladies_ggplotly_workshop). 
