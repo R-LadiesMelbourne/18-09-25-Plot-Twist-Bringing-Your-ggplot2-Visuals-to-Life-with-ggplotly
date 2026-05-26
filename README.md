@@ -1,4 +1,4 @@
-#Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly
+# Plot Twist: Bringing Your ggplot2 Visuals to Life with ggplotly
 
 Transform your static R plots into interactive, engaging visual stories! In this hands-on workshop, we’ll take pre-organised ggplot2 code and show you how to enhance it with ggplotly, making your data come alive for presentations, dashboards, and reports.
 
