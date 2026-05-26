@@ -10,3 +10,8 @@ See our [MeetUp](https://www.meetup.com/rladies-melbourne/events/310808326/?even
 
 The website with the course content can be found [here](https://kirstymccann.github.io/ggplotly_workshop_website/). 
 The presentation can be found [here](https://github.com/KirstyMcCann/2025-Sep-18_Rladies_ggplotly_workshop). 
+
+Note that there was an issue loading `ggtree` which can be solved using: 
+```{r}
+pak::pak("YuLab-SMU/ggtree")
+```
